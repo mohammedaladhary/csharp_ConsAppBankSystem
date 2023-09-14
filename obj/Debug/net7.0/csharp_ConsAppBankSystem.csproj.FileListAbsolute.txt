@@ -1,0 +1,15 @@
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/bin/Debug/net7.0/csharp_ConsAppBankSystem
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/bin/Debug/net7.0/csharp_ConsAppBankSystem.deps.json
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/bin/Debug/net7.0/csharp_ConsAppBankSystem.runtimeconfig.json
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/bin/Debug/net7.0/csharp_ConsAppBankSystem.dll
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/bin/Debug/net7.0/csharp_ConsAppBankSystem.pdb
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/csharp_ConsAppBankSystem.csproj.AssemblyReference.cache
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/csharp_ConsAppBankSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/csharp_ConsAppBankSystem.AssemblyInfoInputs.cache
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/csharp_ConsAppBankSystem.AssemblyInfo.cs
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/csharp_ConsAppBankSystem.csproj.CoreCompileInputs.cache
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/csharp_ConsAppBankSystem.dll
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/refint/csharp_ConsAppBankSystem.dll
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/csharp_ConsAppBankSystem.pdb
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/csharp_ConsAppBankSystem.genruntimeconfig.cache
+/Users/mohammedaladhary/Projects/csharp_ConsAppBankSystem/obj/Debug/net7.0/ref/csharp_ConsAppBankSystem.dll
